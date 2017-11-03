@@ -1,0 +1,2 @@
+1. open regedit
+2. \HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
