@@ -27,9 +27,6 @@ Space::Space
 Space & E::send {Up}
 Space & D::send {Down}
 Space & S::send {Left}
-Space & F::send {Right}
-Space & J::send {Ins}
-Space & M::send {Del}
 Space & K::send {Home}
 Space & ,::send {End}
 Space & L::send {PgUp}
