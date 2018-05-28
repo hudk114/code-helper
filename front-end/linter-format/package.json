@@ -18,7 +18,6 @@
     "prettier-eslint-cli": "^4.7.1"
   },
   "precommit": [
-    "format",
     "linter",
     "stylelinter"
   ]
