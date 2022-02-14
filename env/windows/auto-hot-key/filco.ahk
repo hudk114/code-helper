@@ -17,3 +17,6 @@ LCtrl & y::send {Alt down}{y down}{Alt up}{y up}
 LCtrl & s::send {Alt down}{s down}{Alt up}{s up}
 LCtrl & f::send {Alt down}{f down}{Alt up}{f up}
 LCtrl & /::send {Alt down}{/ down}{Alt up}{/ up}
+
+; for vs-code
+; LAlt & LShift & f::send {Alt down}{Shift down}{f down}{Alt up}{Shift up}{f up}
